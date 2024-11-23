@@ -19,3 +19,5 @@
 
 // console.log(userOne.email);
 // console.log(userTwo.email);
+
+//conclusion: stack memory mai copy change hota h; Heap memory mai reference (original) value change hota h;
